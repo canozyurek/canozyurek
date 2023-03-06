@@ -32,7 +32,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="70" height="40"/>
   </a>
   <a>
-    <img src="https://www.nicepng.com/png/detail/207-2073547_sql-server-icon-png-29-transparent-background-database.png" alt="SQL" width="40" height="40"/>
+    <img src="http://cdn.onlinewebfonts.com/svg/img_5361.png" alt="SQL" width="40" height="40"/>
   </a>
   
 </p>
