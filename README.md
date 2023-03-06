@@ -23,8 +23,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
   </a>
   <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" alt="pandas" width="40" height="40"/>
   </a>
+  <a>
+    <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a>
+    <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="SQL" width="40" height="40"/>
+  </a>
+  
 </p>
 
 <p align= "center">
